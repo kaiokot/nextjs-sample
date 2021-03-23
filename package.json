@@ -1,0 +1,17 @@
+{
+  "name": "poc-next",
+  "version": "1.0.0",
+  "description": "POC next app",
+  "main": "index.js",
+  "author": "Kaio Turubia",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "^10.0.9",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
